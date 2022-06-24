@@ -2,10 +2,10 @@ img {width: 400px;
       
 }
 #thirdDiv { height: 600px;
-            width: 500px; 
+            width: 600px; 
             background-color: rgb(169, 238, 238); 
             padding: 50px;
-            border: 1px solid black ; 
+            border: 3px solid black ; 
             margin-left: auto;  
             margin-right: auto;
        
@@ -23,6 +23,7 @@ body {
       background-image: url("https://img1.freepng.es/20180215/isw/kisspng-white-black-pattern-vector-kitchen-background-5a860bd0f3f521.5162539615187342889993.jpg");
       background-size: auto;
       }
-#divClass {
+.divClass {
             text-align: center;
           }
+h1 {color:rgb(4, 0, 255) }
